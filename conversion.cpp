@@ -1,11 +1,5 @@
-//
-//  Lovisa_Svallingson_hw6.cpp
-//  Assignment 6
-//  Monday April 6 2015
-//  TA: Sahar Jambi
-//
+//Lovisa Svallingson
 //  This is a program that takes in a decimal form the user and converts it to binary and hexadecimals.
-//
 
 #include <iostream>
 using namespace std;
